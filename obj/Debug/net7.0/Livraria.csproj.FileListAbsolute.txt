@@ -1,0 +1,15 @@
+C:\Users\Migue\Documents\C#\Livraria\bin\Debug\net7.0\Livraria.exe
+C:\Users\Migue\Documents\C#\Livraria\bin\Debug\net7.0\Livraria.deps.json
+C:\Users\Migue\Documents\C#\Livraria\bin\Debug\net7.0\Livraria.runtimeconfig.json
+C:\Users\Migue\Documents\C#\Livraria\bin\Debug\net7.0\Livraria.dll
+C:\Users\Migue\Documents\C#\Livraria\bin\Debug\net7.0\Livraria.pdb
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.csproj.AssemblyReference.cache
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.AssemblyInfo.cs
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.dll
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\refint\Livraria.dll
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.pdb
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\Livraria.genruntimeconfig.cache
+C:\Users\Migue\Documents\C#\Livraria\obj\Debug\net7.0\ref\Livraria.dll
